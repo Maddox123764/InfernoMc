@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "InfernoMc24/7",
   "bot-account": {
     "username": "SoloCloudHosting",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "Infernomc123.aternos.me",
+    "port": 31590,
     "version": "1.20.1",
     "try-creative": false
   },
